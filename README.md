@@ -1,4 +1,4 @@
-# QR code + unsplash generate
+# 前端react購物車+typescript
 
  說明 : 練習前端react購物車+typescript + nodejs + mogode的串接
 
